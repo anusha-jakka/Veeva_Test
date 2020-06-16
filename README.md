@@ -11,3 +11,7 @@ This should take 1-2 hours at most.
 Please Enter the colors comma separated example:
 red,blu,yellow,green and click on enter
 
+######distClosestNumbers
+Please enter space seperated numbers and click on enter:
+5 9 8 1
+

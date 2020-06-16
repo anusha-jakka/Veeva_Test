@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe16e6d-c928-4f37-bcc6-eb088349de9c" name="Default Changelist" comment="" />
+    <list default="true" id="dfe16e6d-c928-4f37-bcc6-eb088349de9c" name="Default Changelist" comment="2 nd commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClosestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClosestNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dMpCJ06tfY5XMTgPwTRa6alccV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.ClosestNumber">
     <configuration name="ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,43 +67,51 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 nd commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="445" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592262850388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592262850388" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592275468466">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1592276118567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592275468466" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592275468466">
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592276118567" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592276885497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592275468466" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592275468466">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592276885497" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592276885496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592275468466" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592275468466">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592276885496" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592276885496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592275468466" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592275467248">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592276885496" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592276885497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592275467248" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592275467248">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592276885497" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592276871889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592275467248" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592275467248">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592276871889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592275467248" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592275467248">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592276871889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592275467248" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592276871889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1592248845243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -110,12 +127,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ClosestNumber.java</url>
-          <line>32</line>
+          <line>30</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ClosestNumber.java</url>
-          <line>15</line>
+          <line>13</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -125,8 +142,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ClosestNumber.java</url>
-          <line>52</line>
+          <line>56</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClosestNumber.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

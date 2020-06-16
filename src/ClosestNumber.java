@@ -1,6 +1,4 @@
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
 public class ClosestNumber {
@@ -40,23 +38,29 @@ public static void main(String args[])
 {
     List<String> list = new ArrayList<>();
     System.out.println("Enter the numbers :");
-    Scanner scanner = new Scanner(System.in);
-    while (scanner.hasNext()) {
-        list.add(scanner.next());
+    BufferedReader br = null;
+
+    try {
+        br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        while (st != null && st.hasMoreElements()) {
+            list.add(st.nextToken());
+        }
+    } catch (IOException e) {
+        e.printStackTrace();
     }
 
+        int[] testArray = new int[list.size()];
 
-    int[] testArray=new int[list.size()];
-
-    for(int i=0;i<list.size();i++)
-    {
-        testArray[i]=Integer.parseInt(list.get(i));
-    }
-    System.out.println(distClosestNumbers(testArray));
+        for (int i = 0; i < list.size(); i++) {
+            testArray[i] = Integer.parseInt(list.get(i));
+        }
+        System.out.println(distClosestNumbers(testArray));
 
 //    int[] testArray2={4, 5, 5, 99, 99, 65};
 //    System.out.println(distClosestNumbers(testArray2));
-}
 
+    }
 
 }
