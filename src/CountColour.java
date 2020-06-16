@@ -11,6 +11,10 @@ public class CountColour {
         int colorCount=0;
         String expectedColor="blue";
         String[] colors=colorSet.split(", ");
+        if(colors.length<=1)
+        {
+            colors=colorSet.split(",");
+        }
         for(String color:colors)
         {
             if(expectedColor.equalsIgnoreCase(color))

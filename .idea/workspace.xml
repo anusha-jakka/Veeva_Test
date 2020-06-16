@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe16e6d-c928-4f37-bcc6-eb088349de9c" name="Default Changelist" comment="" />
+    <list default="true" id="dfe16e6d-c928-4f37-bcc6-eb088349de9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Veeva_CodeTest/CountColour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Veeva_CodeTest/CountColour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountColour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountColour.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ClosestNumber">
+  <component name="RunManager" selected="Application.CountColour">
     <configuration name="ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClosestNumber" />
       <module name="Veeva_CodeTest" />
@@ -45,8 +49,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClosestNumber" />
         <item itemvalue="Application.CountColour" />
+        <item itemvalue="Application.ClosestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -68,58 +72,66 @@
       <option name="project" value="LOCAL" />
       <updated>1592277024831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3rd commit">
+      <created>1592277206531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592277206531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 nd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 nd commit" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592262850388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592262850388" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1592277020659">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1592277205061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592277020659" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592276885497">
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592277205061" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1592277629001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592276885497" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592276885496">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592277629001" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1592277629000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592276885496" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592276885496">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592277629000" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1592277629000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592276885496" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592276885497">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592277629000" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1592277629001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592276885497" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592276871889">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592277629001" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592277596924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592276871889">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592277596924" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592277596924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592276871889">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592277596924" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592277596924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592276871889">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592277596924" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592277596924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592276871889" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1592277034464">
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592277596924" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1592277224623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592277034464" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592277224623" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1592248845243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -130,7 +142,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CountColour.java</url>
-          <line>17</line>
+          <line>21</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -145,7 +157,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CountColour.java</url>
-          <line>26</line>
+          <line>30</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -158,12 +170,18 @@
           <line>53</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CountColour.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="expectedColor.equalsIgnoreCase(color)" language="JAVA" />
         <watch expression="expectedColor.equalsIgnoreCase(color)" language="JAVA" />
+        <watch expression="colors.length" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
